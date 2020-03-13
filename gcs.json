@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thinking-league-260813",
+  "private_key_id": "df62bbb4f2b6ab88f7b292d9f4e56ae386cd7322",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCfKbMuKl4a7vuA\n1g8xUhCVIR2+lLHKNUWpAgLZ9B3j8mCkKZ084ehR5KMW61K7DX73dv7H0sW5tDMg\nY3oE6mbF+U+3nl0JRcZG2br0rlngQqCDyEsisxKzeI63PxZ2sI4tYeG0rWGad6q7\nfemxiNNqnp3tjAmPizU58Cjf92QxlcRQ+RN/0nTvuNaPjjD3B+5xRFjwLKdxdW6C\nWdqAfWcRcnw44BOWVTUana0dJBk9Yd/ToTQTzaL1SFO7Bwq/7Pcm6hlNmv+hRg0M\nDdDXyUrZz9ipbqPo27n2Et+RyvbtkinXj7UsQSAzTI/BUz2u0JGe5LozX9ScwQTm\nB+AscXJpAgMBAAECgf8DztuanyjhPBaIXpa+d1guOTyc8rHORLgF8yZeUJjme0YU\np2o7qqwESZQdWEQCdbAz+4TdAw34A3e1rqucsn8C/ZQKsJ9JOYIk79CpSgKcevuc\nK46gpegsoxXHDJtc+5xrOYxM5lkPeQ18ruaIeN2WD3V32YHhDVOYr0ZLFYAwL3t2\nvrtoTtHl8fSo0z4/CMmnbFpics/R/BAuapUnxoZ7G9/qmeP2rDPs31EUpvItmpZi\npS/eO8YotKrPlTRvtIdz1fBq+C96GaY9QSBqXYuu92ZUJwPuDD/zIrXqVZc8kEOd\n3HU8HDt/up1qausVCzfOtsMyMbWoF5PfTAlOWHECgYEA1NmgmXg9coLLaIXuHHT9\nOU4sdlMbbNa5ZJGJbt1i91+TQkwg+5N0QmyXiI8d5H/F4QpW1Rbih00g4qvneeJw\ntM/RrEn9nn5ksvCSPssQTyA8B8vSLJIWfWbJEsMfI2md5+hDs2ZaBu7NmVqiHIJY\nG9X+ddqnxlBd0dmsCMtwjdECgYEAv23YIBBcfGxMWf3i2A30ZB+AFHEd63Q5Eq3A\nKfItAba2PheNsgqwMoEWJoTghPo4FCLUaODlKplTRpG7pPYk4u8IDtMwkmVPAsaw\nMiH0E8341DQ/t9GEQeJyHkT0tm3U4ZZ36N0sYxHdeDEWG/SVtXgnQuJd9TAatyZ/\nAheTSRkCgYEA0ZywR/LdsJOV9Y1PfL7JUVHm/2/ApmKfmKaqjX+AItUAlF2cbaQ8\n7d07LcSjT491M7WW5arv0wblx9Q61RFmpOm0NtN27ErUqFO58hTQLtwzwgm7JSGI\n/F3ozo1RcPJmCyf05At7xTAPUWKsGx9R3bfULAP1DZu/iRWwEcknQsECgYA9OcOz\nVahO/1BYRBSmp6fv0gdkAl3gbdbHO51HjTaJ4sddCql+NV7veEv+W+d3gJQpFI69\nUJjbTBjPbFMIytU3Y94+55sUZ6SirauzDRsEro8UR/XNNAzKCcQYHFPseSpqUHbf\nmsXUleUwyPpaTJsJZHmiMcZ9YjpZM83RfHrWGQKBgGLXYiVg/6TApx1RsNbKC/Ni\nk9JjVKNMkS8GErWMklOIHHT0sz8v2xm/FOaML6qzw2d8iTIvoydAOv3wqaIP7ia1\n2KaObKyjj+6PKDY8TI7Cq6/9IaMpvcl/6bsHeHeLT6t64XH4rGfTq2CPvAa56y/r\nNgOpLsPZC01/ENoUlUtF\n-----END PRIVATE KEY-----\n",
+  "client_email": "for-cloud-storage@thinking-league-260813.iam.gserviceaccount.com",
+  "client_id": "100338792707979997754",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/for-cloud-storage%40thinking-league-260813.iam.gserviceaccount.com"
+}
